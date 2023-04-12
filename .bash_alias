@@ -1,0 +1,2 @@
+# check thread parent
+alias psp='ps -o ppid= -p'
